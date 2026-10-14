@@ -1,0 +1,18 @@
+# Domain 1: Information System Auditing Process
+
+Exam weight: 18%
+
+> **Markers:** 📓 = in my Google Doc notes · ⭐ = frequently tested · ➕ = not in the review manual, verify · unmarked = gap to study. Numbering follows the ISACA CISA Review Manual 28th Ed.
+
+## Sections
+
+- [1.1 IS Audit Standards, Guidelines, Functions and Codes of Ethics](1.1-IS-Audit-Standards-Guidelines-Functions-and-Codes-of-Ethics.md)
+- [1.2 Types of Audits, Assessments and Reviews](1.2-Types-of-Audits-Assessments-and-Reviews.md)
+- [1.3 Risk-Based Audit Planning](1.3-Risk-Based-Audit-Planning.md)
+- [1.4 Types of Controls and Considerations](1.4-Types-of-Controls-and-Considerations.md)
+- [1.5 Audit Project Management](1.5-Audit-Project-Management.md)
+- [1.6 Audit Testing and Sampling Methodology](1.6-Audit-Testing-and-Sampling-Methodology.md)
+- [1.7 Audit Evidence Collection Techniques](1.7-Audit-Evidence-Collection-Techniques.md)
+- [1.8 Audit Data Analytics](1.8-Audit-Data-Analytics.md)
+- [1.9 Reporting and Communication Techniques](1.9-Reporting-and-Communication-Techniques.md)
+- [1.10 Quality Assurance and Improvement of the Audit Process](1.10-Quality-Assurance-and-Improvement-of-the-Audit-Process.md)
