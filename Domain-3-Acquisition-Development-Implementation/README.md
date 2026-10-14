@@ -14,3 +14,16 @@ Exam weight: 12%
 - [3.6 Implementation Configuration and Release Management](3.6-Implementation-Configuration-and-Release-Management.md)
 - [3.7 System Migration, Infrastructure Deployment and Data Conversion](3.7-System-Migration-Infrastructure-Deployment-and-Data-Conversion.md)
 - [3.8 Postimplementation Review](3.8-Postimplementation-Review.md)
+
+## Study notes (master-prompt format)
+
+Short bullets (14 words or fewer), definitions, audit impact, exam traps, worked calculations with verification, and takeaways. Points tagged ⚠ Check are not backed by the review manual.
+
+- [3.1 Project Governance and Management](Study-Notes/3.1-Study-Notes.md)
+- [3.2 Business Case and Feasibility Analysis](Study-Notes/3.2-Study-Notes.md)
+- [3.3 System Development Methodologies](Study-Notes/3.3-Study-Notes.md)
+- [3.4 Control Identification and Design](Study-Notes/3.4-Study-Notes.md)
+- [3.5 System Readiness and Implementation Testing](Study-Notes/3.5-Study-Notes.md)
+- [3.6 Implementation Configuration and Release Management](Study-Notes/3.6-Study-Notes.md)
+- [3.7 System Migration, Infrastructure Deployment and Data Conversion](Study-Notes/3.7-Study-Notes.md)
+- [3.8 Postimplementation Review](Study-Notes/3.8-Study-Notes.md)
