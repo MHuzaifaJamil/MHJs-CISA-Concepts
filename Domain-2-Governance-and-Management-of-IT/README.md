@@ -17,3 +17,19 @@ Exam weight: 18%
 - [2.9 IT Vendor Management](2.9-IT-Vendor-Management.md)
 - [2.10 IT Performance Monitoring and Reporting](2.10-IT-Performance-Monitoring-and-Reporting.md)
 - [2.11 Assurance and Quality Management of IT](2.11-Assurance-and-Quality-Management-of-IT.md)
+
+## Study notes (master-prompt format)
+
+Short bullets (14 words or fewer), definitions, audit impact, exam traps, worked calculations with verification, and takeaways. Points tagged ⚠ Check are not backed by the review manual.
+
+- [2.1 Laws, Regulations and Industry Standards](Study-Notes/2.1-Study-Notes.md)
+- [2.2 Organizational Structure, IT Governance and IT Strategy](Study-Notes/2.2-Study-Notes.md)
+- [2.3 IT Policies, Standards, Procedures and Guidelines](Study-Notes/2.3-Study-Notes.md)
+- [2.4 Enterprise Architecture and Considerations](Study-Notes/2.4-Study-Notes.md)
+- [2.5 Enterprise Risk Management (ERM)](Study-Notes/2.5-Study-Notes.md)
+- [2.6 Data Privacy Program and Principles](Study-Notes/2.6-Study-Notes.md)
+- [2.7 Data Governance and Classification](Study-Notes/2.7-Study-Notes.md)
+- [2.8 IT Resource Management](Study-Notes/2.8-Study-Notes.md)
+- [2.9 IT Vendor Management](Study-Notes/2.9-Study-Notes.md)
+- [2.10 IT Performance Monitoring and Reporting](Study-Notes/2.10-Study-Notes.md)
+- [2.11 Assurance and Quality Management of IT](Study-Notes/2.11-Study-Notes.md)
