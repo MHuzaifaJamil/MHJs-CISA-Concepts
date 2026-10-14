@@ -14,6 +14,7 @@ A detailed, section-by-section CISA study outline: every domain split into secti
 | [Appendix: notes review, coverage gaps, verification status](Appendix/Notes-Review.md) | |
 
 ## Status
+- Domain 1 study notes are done (`Domain-1-Auditing-Process/Study-Notes/`). Domains 2 to 5 have the outline only.
 - Outline built from the ISACA CISA Review Manual structure plus my own prep notes; about 1,590 added points fact-checked against the manual (see Appendix E).
 - Items marked ➕ still need checking.
 

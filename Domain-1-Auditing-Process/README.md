@@ -16,3 +16,18 @@ Exam weight: 18%
 - [1.8 Audit Data Analytics](1.8-Audit-Data-Analytics.md)
 - [1.9 Reporting and Communication Techniques](1.9-Reporting-and-Communication-Techniques.md)
 - [1.10 Quality Assurance and Improvement of the Audit Process](1.10-Quality-Assurance-and-Improvement-of-the-Audit-Process.md)
+
+## Study notes (master-prompt format)
+
+Short bullets (14 words or fewer), definitions, audit impact, exam traps, worked calculations with verification, and takeaways. Points tagged ⚠ Check are not backed by the review manual.
+
+- [1.1 IS Audit Standards, Guidelines, Functions and Codes of Ethics](Study-Notes/1.1-Study-Notes.md)
+- [1.2 Types of Audits, Assessments and Reviews](Study-Notes/1.2-Study-Notes.md)
+- [1.3 Risk-Based Audit Planning](Study-Notes/1.3-Study-Notes.md)
+- [1.4 Types of Controls and Considerations](Study-Notes/1.4-Study-Notes.md)
+- [1.5 Audit Project Management](Study-Notes/1.5-Study-Notes.md)
+- [1.6 Audit Testing and Sampling Methodology](Study-Notes/1.6-Study-Notes.md)
+- [1.7 Audit Evidence Collection Techniques](Study-Notes/1.7-Study-Notes.md)
+- [1.8 Audit Data Analytics](Study-Notes/1.8-Study-Notes.md)
+- [1.9 Reporting and Communication Techniques](Study-Notes/1.9-Study-Notes.md)
+- [1.10 Quality Assurance and Improvement of the Audit Process](Study-Notes/1.10-Study-Notes.md)
