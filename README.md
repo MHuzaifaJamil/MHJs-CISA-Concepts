@@ -15,6 +15,7 @@ A detailed, section-by-section CISA study outline: every domain split into secti
 
 ## Status
 - Study notes (`Study-Notes/` in each domain folder) are done for all five domains.
+- Diagrams (`Diagrams/` in each domain folder): Mermaid mind maps, flowcharts, decision trees, sequence and state diagrams, tables and collapsible dropdowns for every section. They render on GitHub. Points the notes flag are labelled unverified inside them.
 - Outline built from the ISACA CISA Review Manual structure plus my own prep notes; about 1,590 added points fact-checked against the manual (see Appendix E).
 - Items marked ➕ still need checking. Lines tagged ⚠ Check in the study notes are points the review manual does not back, or where it contradicts itself.
 - Edition: the source manual is the 28th Edition (its text confirms this). Some ⚠ Check lines mention an edition mismatch, which came from OCR errors in the extracted text.
