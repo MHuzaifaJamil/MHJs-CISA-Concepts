@@ -27,3 +27,16 @@ Short bullets (14 words or fewer), definitions, audit impact, exam traps, worked
 - [3.6 Implementation Configuration and Release Management](Study-Notes/3.6-Study-Notes.md)
 - [3.7 System Migration, Infrastructure Deployment and Data Conversion](Study-Notes/3.7-Study-Notes.md)
 - [3.8 Postimplementation Review](Study-Notes/3.8-Study-Notes.md)
+
+## Diagrams (Mermaid mind maps, flowcharts, decision trees, dropdowns)
+
+Each file has a section map, process flowcharts, comparison tables, collapsible dropdowns and a quick-recall table. They render on GitHub.
+
+- [3.1 Project Governance and Management](Diagrams/3.1-Diagrams.md)
+- [3.2 Business Case and Feasibility Analysis](Diagrams/3.2-Diagrams.md)
+- [3.3 System Development Methodologies](Diagrams/3.3-Diagrams.md)
+- [3.4 Control Identification and Design](Diagrams/3.4-Diagrams.md)
+- [3.5 System Readiness and Implementation Testing](Diagrams/3.5-Diagrams.md)
+- [3.6 Implementation Configuration and Release Management](Diagrams/3.6-Diagrams.md)
+- [3.7 System Migration, Infrastructure Deployment and Data Conversion](Diagrams/3.7-Diagrams.md)
+- [3.8 Postimplementation Review](Diagrams/3.8-Diagrams.md)
