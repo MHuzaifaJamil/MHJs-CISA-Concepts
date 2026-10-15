@@ -33,3 +33,19 @@ Short bullets (14 words or fewer), definitions, audit impact, exam traps, worked
 - [2.9 IT Vendor Management](Study-Notes/2.9-Study-Notes.md)
 - [2.10 IT Performance Monitoring and Reporting](Study-Notes/2.10-Study-Notes.md)
 - [2.11 Assurance and Quality Management of IT](Study-Notes/2.11-Study-Notes.md)
+
+## Diagrams (Mermaid mind maps, flowcharts, decision trees, dropdowns)
+
+Each file has a section map, process flowcharts, comparison tables, collapsible dropdowns and a quick-recall table. They render on GitHub.
+
+- [2.1 Laws, Regulations and Industry Standards](Diagrams/2.1-Diagrams.md)
+- [2.2 Organizational Structure, IT Governance and IT Strategy](Diagrams/2.2-Diagrams.md)
+- [2.3 IT Policies, Standards, Procedures and Guidelines](Diagrams/2.3-Diagrams.md)
+- [2.4 Enterprise Architecture and Considerations](Diagrams/2.4-Diagrams.md)
+- [2.5 Enterprise Risk Management (ERM)](Diagrams/2.5-Diagrams.md)
+- [2.6 Data Privacy Program and Principles](Diagrams/2.6-Diagrams.md)
+- [2.7 Data Governance and Classification](Diagrams/2.7-Diagrams.md)
+- [2.8 IT Resource Management](Diagrams/2.8-Diagrams.md)
+- [2.9 IT Vendor Management](Diagrams/2.9-Diagrams.md)
+- [2.10 IT Performance Monitoring and Reporting](Diagrams/2.10-Diagrams.md)
+- [2.11 Assurance and Quality Management of IT](Diagrams/2.11-Diagrams.md)
