@@ -43,3 +43,24 @@ Short bullets (14 words or fewer), definitions, audit impact, exam traps, worked
 - [4.14 Data Backup, Storage and Restoration](Study-Notes/4.14-Study-Notes.md)
 - [4.15 Business Continuity Plan (BCP)](Study-Notes/4.15-Study-Notes.md)
 - [4.16 Disaster Recovery Plans (DRP)](Study-Notes/4.16-Study-Notes.md)
+
+## Diagrams (Mermaid mind maps, flowcharts, decision trees, dropdowns)
+
+Each file has a section map, process flowcharts, comparison tables, collapsible dropdowns and a quick-recall table. They render on GitHub.
+
+- [4.1 IT Components](Diagrams/4.1-Diagrams.md)
+- [4.2 IT Asset Management](Diagrams/4.2-Diagrams.md)
+- [4.3 Job Scheduling and Production Process Automation](Diagrams/4.3-Diagrams.md)
+- [4.4 System Interfaces](Diagrams/4.4-Diagrams.md)
+- [4.5 End-User Computing and Shadow IT](Diagrams/4.5-Diagrams.md)
+- [4.6 Systems Availability and Capacity Management](Diagrams/4.6-Diagrams.md)
+- [4.7 Problem and Incident Management](Diagrams/4.7-Diagrams.md)
+- [4.8 IT Change, Configuration and Patch Management](Diagrams/4.8-Diagrams.md)
+- [4.9 Operational Log Management](Diagrams/4.9-Diagrams.md)
+- [4.10 IT Service Level Management](Diagrams/4.10-Diagrams.md)
+- [4.11 Database Management](Diagrams/4.11-Diagrams.md)
+- [4.12 Business Impact Analysis (BIA)](Diagrams/4.12-Diagrams.md)
+- [4.13 System and Operational Resilience](Diagrams/4.13-Diagrams.md)
+- [4.14 Data Backup, Storage and Restoration](Diagrams/4.14-Diagrams.md)
+- [4.15 Business Continuity Plan (BCP)](Diagrams/4.15-Diagrams.md)
+- [4.16 Disaster Recovery Plans (DRP)](Diagrams/4.16-Diagrams.md)
